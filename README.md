@@ -1,1 +1,4 @@
-# Verilog-snake-game
+<h2>貪吃蛇遊戲</h2>
+<h3>作者:108321002廖翊得 108321007黃舟淵</h3>
+# Input/Output unit:<br> 
+    *
