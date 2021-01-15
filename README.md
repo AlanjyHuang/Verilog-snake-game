@@ -3,6 +3,10 @@
 <h2>Input/Output unit:</h2><br>
 * 8x8 LED 矩陣，用來顯示對戰畫面。下圖為按下 clear 的初始畫面。<br>
 <img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO1.jpg" width="300"/><br>
+* 從左至右控制分別為下上左右<br>
+<img src="https://github.com/AlanjyHuang/Verilog-snake-game/blob/main/137587388_472858437449908_4353284761955897336_n.jpg" width="300"/><br>
+* 控制器為暫停<br>
+<img src="https://github.com/AlanjyHuang/Verilog-snake-game/blob/main/137597929_704540600237624_7506391275482039146_n.jpg" width="300"/><br>
 * 七段顯示器，用來顯示剩餘時間。<br>
 <img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO2.jpg" width="300"/><br>
 <h3>功能說明:</h3><br>
