@@ -5,10 +5,10 @@
 <img src="https://github.com/AlanjyHuang/Verilog-snake-game/blob/main/137318900_173068304577734_6861558222315300370_n.jpg" width="300"/><br>
 * 從左至右控制分別為下上左右<br>
 <img src="https://github.com/AlanjyHuang/Verilog-snake-game/blob/main/137587388_472858437449908_4353284761955897336_n.jpg" width="300"/><br>
-* 控制器為暫停<br>
+* 七段顯示器，顯示目前得分<br>
 <img src="https://github.com/AlanjyHuang/Verilog-snake-game/blob/main/137281901_766069700675228_6092086914492976812_n.jpg" width="300"/><br>
-* 七段顯示器，用來顯示目前得分。<br>
-<img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO2.jpg" width="300"/><br>
+* 控制器為暫停<br>
+<img src="https://github.com/AlanjyHuang/Verilog-snake-game/blob/main/137597929_704540600237624_7506391275482039146_n.jpg" width="300"/><br>
 <h3>功能說明:</h3><br>
 利用按鈕上下左右控制蛇去吃蘋果，每吃一顆加一分，在不撞到牆壁的前提下獲得6分即可勝利<br>
 P.s.分數越高蛇跑越快
